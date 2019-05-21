@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="redis" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
