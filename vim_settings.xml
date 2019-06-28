@@ -1,14 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-model-consumer/src/main/java/com/comisys/lanxin/blueprint/model/consumer/commodity/condition/GoodsPropertyCondition.java" timestamp="1561683115572">
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="80" column="7" />
-        <mark key="^" line="80" column="7" />
-        <mark key="." line="80" column="7" />
-      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/BehaviorDataTool.java" timestamp="1561689991008" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/test/blueprint-server/blueprint-operation-data/src/main/java/com/comisys/lanxin/blueprint/operation/datamanager/ServiceProxyPluginOperation.java" timestamp="1561686931213" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-behavior/src/main/java/com/comisys/lanxin/blueprint/behavior/api/BehaviorContext.java" timestamp="1561689629796" />
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" timestamp="1561683465239">
         <mark key="'" line="400" column="7" />
         <mark key="[" line="423" column="9" />
@@ -16,19 +13,9 @@
         <mark key="^" line="424" column="10" />
         <mark key="." line="424" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/userinfo/UserServiceImpl.java" timestamp="1561686129209" />
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" timestamp="1561683530394">
-        <mark key="'" line="210" column="7" />
-        <mark key="[" line="212" column="9" />
-        <mark key="]" line="213" column="10" />
-        <mark key="^" line="213" column="10" />
-        <mark key="." line="213" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/authorize/BlueprintAuthTagService.java" timestamp="1561684369159">
-        <mark key="[" line="650" column="12" />
-        <mark key="]" line="650" column="11" />
-        <mark key="^" line="650" column="11" />
-        <mark key="." line="650" column="11" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" timestamp="1561688483398">
+        <mark key="'" line="213" column="7" />
+        <mark key="]" line="138" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" timestamp="1561683364261">
         <mark key="'" line="174" column="7" />
@@ -42,6 +29,42 @@
         <mark key="]" line="246" column="49" />
         <mark key="." line="246" column="49" />
         <mark key="^" line="246" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ResourceSendReceiveTest.java" timestamp="1561688583240">
+        <mark key="[" line="201" column="9" />
+        <mark key="]" line="199" column="10" />
+        <mark key="^" line="199" column="10" />
+        <mark key="." line="199" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/handler/data/ServiceProxyPluginMessageHandler.java" timestamp="1561688439050">
+        <mark key="[" line="18" column="101" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/behavior/BehaviorDataService.java" timestamp="1561689237176" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-model-consumer/src/main/java/com/comisys/lanxin/blueprint/model/consumer/commodity/condition/GoodsPropertyCondition.java" timestamp="1561683115572">
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="80" column="7" />
+        <mark key="^" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/delivery/CargoManagerV2.java" timestamp="1561690409345" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/userinfo/UserServiceImpl.java" timestamp="1561686129209" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/yjx/order/OrderSendReceiveTest.java" timestamp="1561690634308">
+        <mark key="[" line="190" column="62" />
+        <mark key="]" line="47" column="10" />
+        <mark key="^" line="47" column="10" />
+        <mark key="." line="47" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/authorize/BlueprintAuthTagService.java" timestamp="1561684369159">
+        <mark key="[" line="650" column="12" />
+        <mark key="]" line="650" column="11" />
+        <mark key="^" line="650" column="11" />
+        <mark key="." line="650" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1561689157969">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -79,11 +102,14 @@
       <jump line="210" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBJU2VydmljZVByb3h5SW52b2tlIHNlcnZpY2VQcm94eUludm9rZTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZShNZXNzYWdlQ29udGV4dCBjb250ZXh0LCBTZXJ2aWNlUHJveHlQbHVnaW5SZXF1ZXN0IHJlcXVlc3QpIHsKIA==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnROb3ROdWxsKHNlc3Npb25JZCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnROb3ROdWxsKHNlc3Npb25JZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBJU2VydmljZVByb3h5SW52b2tlIHNlcnZpY2VQcm94eUludm9rZTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZShNZXNzYWdlQ29udGV4dCBjb250ZXh0LCBTZXJ2aWNlUHJveHlQbHVnaW5SZXF1ZXN0IHJlcXVlc3QpIHsKIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gcmVzcG9uc2UuZ2V0U2Vzc2lvbklkKCk7Cg==</text>
@@ -107,7 +133,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXMucHV0KCJzZXNzaW9uSWQiLCByZXF1ZXN0LmdldFNlc3Npb25JZCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>暂不要求</text>
@@ -134,6 +160,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
