@@ -4,6 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/BehaviorDataTool.java" timestamp="1561689991008" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/autoconfigure/LantuOldMessageHandlerConfiguration.java" timestamp="1561702212574">
+        <mark key="'" line="268" column="5" />
+        <mark key="[" line="280" column="5" />
+        <mark key="]" line="280" column="5" />
+        <mark key="^" line="276" column="3" />
+        <mark key="." line="276" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/BLUEPRINT/test/blueprint-server/blueprint-operation-data/src/main/java/com/comisys/lanxin/blueprint/operation/datamanager/ServiceProxyPluginOperation.java" timestamp="1561686931213" />
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-behavior/src/main/java/com/comisys/lanxin/blueprint/behavior/api/BehaviorContext.java" timestamp="1561689629796" />
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" timestamp="1561683465239">
@@ -100,16 +107,17 @@
       <jump line="204" column="18" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
       <jump line="213" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
       <jump line="210" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
+      <jump line="267" column="5" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/autoconfigure/LantuOldMessageHandlerConfiguration.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBJU2VydmljZVByb3h5SW52b2tlIHNlcnZpY2VQcm94eUludm9rZTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZShNZXNzYWdlQ29udGV4dCBjb250ZXh0LCBTZXJ2aWNlUHJveHlQbHVnaW5SZXF1ZXN0IHJlcXVlc3QpIHsKIA==</text>
+        <text encoding="base64">QEJlYW4KICAgIEBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4ocGFyYW1ldGVyaXplZENvbnRhaW5lciA9IElNZXNzYWdlSGFuZGxlci5jbGFzcykKICAgIHB1YmxpYyBJTWVzc2FnZUhhbmRsZXI8Rm9ybUxvY2tSZXF1ZXN0PiBmb3JtTG9ja01lc3NhZ2VIYW5kbGVyKCkgewogICAgICAgIHJldHVybiBuZXcgRm9ybUxvY2tNZXNzYWdlSGFuZGxlcigpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnROb3ROdWxsKHNlc3Npb25JZCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBJU2VydmljZVByb3h5SW52b2tlIHNlcnZpY2VQcm94eUludm9rZTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhhbmRsZShNZXNzYWdlQ29udGV4dCBjb250ZXh0LCBTZXJ2aWNlUHJveHlQbHVnaW5SZXF1ZXN0IHJlcXVlc3QpIHsKIA==</text>
+        <text encoding="base64">QEJlYW4KICAgIEBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4ocGFyYW1ldGVyaXplZENvbnRhaW5lciA9IElNZXNzYWdlSGFuZGxlci5jbGFzcykKICAgIHB1YmxpYyBJTWVzc2FnZUhhbmRsZXI8Rm9ybUxvY2tSZXF1ZXN0PiBmb3JtTG9ja01lc3NhZ2VIYW5kbGVyKCkgewogICAgICAgIHJldHVybiBuZXcgRm9ybUxvY2tNZXNzYWdlSGFuZGxlcigpOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gcmVzcG9uc2UuZ2V0U2Vzc2lvbklkKCk7Cg==</text>
@@ -136,19 +144,21 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>暂不要求</text>
+        <text>formLock</text>
       </register>
     </registers>
     <search>
-      <last-search>暂不要求</last-search>
+      <last-search>formLock</last-search>
       <last-offset />
-      <last-pattern>暂不要求</last-pattern>
+      <last-pattern>formLock</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>暂不要求</entry>
+        <entry>getSequenceMessage</entry>
+        <entry>formLock</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
