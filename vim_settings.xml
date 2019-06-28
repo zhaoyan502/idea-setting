@@ -1,0 +1,140 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-model-consumer/src/main/java/com/comisys/lanxin/blueprint/model/consumer/commodity/condition/GoodsPropertyCondition.java" timestamp="1561683115572">
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="80" column="7" />
+        <mark key="^" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" timestamp="1561683465239">
+        <mark key="'" line="400" column="7" />
+        <mark key="[" line="423" column="9" />
+        <mark key="]" line="424" column="10" />
+        <mark key="^" line="424" column="10" />
+        <mark key="." line="424" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/userinfo/UserServiceImpl.java" timestamp="1561686129209" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" timestamp="1561683530394">
+        <mark key="'" line="210" column="7" />
+        <mark key="[" line="212" column="9" />
+        <mark key="]" line="213" column="10" />
+        <mark key="^" line="213" column="10" />
+        <mark key="." line="213" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/authorize/BlueprintAuthTagService.java" timestamp="1561684369159">
+        <mark key="[" line="650" column="12" />
+        <mark key="]" line="650" column="11" />
+        <mark key="^" line="650" column="11" />
+        <mark key="." line="650" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" timestamp="1561683364261">
+        <mark key="'" line="174" column="7" />
+        <mark key="[" line="203" column="9" />
+        <mark key="]" line="204" column="10" />
+        <mark key="^" line="204" column="10" />
+        <mark key="." line="204" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/SessionSendReceiveTest.java" timestamp="1561686212408">
+        <mark key="[" line="246" column="47" />
+        <mark key="]" line="246" column="49" />
+        <mark key="." line="246" column="49" />
+        <mark key="^" line="246" column="49" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="618" column="0" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="177" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" />
+      <jump line="204" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" />
+      <jump line="84" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" />
+      <jump line="201" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" />
+      <jump line="81" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" />
+      <jump line="174" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/ApplicationSendReceiveTest.java" />
+      <jump line="432" column="6" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="439" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="492" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="573" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="593" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="184" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="222" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="297" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="317" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="403" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="424" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="444" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="495" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="576" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="596" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="181" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="219" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="294" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="314" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="400" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
+      <jump line="144" column="34" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
+      <jump line="204" column="18" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
+      <jump line="213" column="10" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
+      <jump line="210" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/OtherSendReceiveTest.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnROb3ROdWxsKHNlc3Npb25JZCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnROb3ROdWxsKHNlc3Npb25JZCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2Vzc2lvbklkID0gcmVzcG9uc2UuZ2V0U2Vzc2lvbklkKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZXZlbG9wZXJVcGRhdGVSZWdpc3RlckluZm9SZXNwb25zZSByZXNwb25zZSA9ICgoRGV2ZWxvcGVyVXBkYXRlUmVnaXN0ZXJJbmZvUmVzcG9uc2UpIG1lc3NhZ2VSZXNwb25zZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VSZXNwb25zZSAtPiB7CiAgICAgICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnROb3ROdWxsKHN2YWx1ZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3ZhbHVlID0gcmVzcG9uc2UuZ2V0U3ZhbHVlKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXNzaW9uUmVzZXRQYXNzd29yZFJlc3BvbnNlIHJlc3BvbnNlID0gKChTZXNzaW9uUmVzZXRQYXNzd29yZFJlc3BvbnNlKSBtZXNzYWdlUmVzcG9uc2UpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbXMucHV0KCJzZXNzaW9uSWQiLCByZXF1ZXN0LmdldFNlc3Npb25JZCgpKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text>暂不要求</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>暂不要求</last-search>
+      <last-offset />
+      <last-pattern>暂不要求</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>暂不要求</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
