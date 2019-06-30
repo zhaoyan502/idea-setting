@@ -11,7 +11,7 @@
     <mask>*.mxml</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
