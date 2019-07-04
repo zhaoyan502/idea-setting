@@ -82,6 +82,9 @@
       <file name="/fragment.java" timestamp="1561689157969">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" timestamp="1562235621460">
+        <mark key="'" line="903" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-starter/src/test/java/cn/nextbetter/lantu/start/blueprint/DataSendReceiveTest.java" />
@@ -122,6 +125,8 @@
       <jump line="24" column="13" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service/src/main/java/com/comisys/lanxin/blueprint/service/resource/impl/ResourceAdapter.java" />
       <jump line="95" column="13" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/inventory/LibraryBillManagerV2.java" />
       <jump line="938" column="56" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" />
+      <jump line="38" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" />
+      <jump line="903" column="0" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
