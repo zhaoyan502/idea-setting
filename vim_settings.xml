@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/autoconfigure/LantuOldMessageHandlerConfiguration.java" timestamp="1561702212574">
