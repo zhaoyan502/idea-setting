@@ -10,6 +10,10 @@
         <mark key="^" line="276" column="3" />
         <mark key="." line="276" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1562295010690">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-database-consumer/src/main/java/com/comisys/lanxin/blueprint/database/comsumer/mysql/dao/service/ConsumerLoginInfoDao.java" timestamp="1562295009389" />
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/handler/data/QueryResourceInfoMessageHandler.java" timestamp="1561965148538">
         <mark key="'" line="28" column="13" />
       </file>
@@ -49,8 +53,8 @@
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-host-lanxin/src/main/java/com/comisys/lanxin/blueprint/service/host/lanxin/NextBetterOpenService.java" timestamp="1561965123748">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" timestamp="1562234629256">
-        <mark key="'" line="938" column="56" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" timestamp="1562295490544">
+        <mark key="'" line="1419" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/inventory/LibraryBillManagerV2.java" timestamp="1562230284451">
         <mark key="'" line="95" column="13" />
@@ -127,6 +131,7 @@
       <jump line="938" column="56" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" />
       <jump line="38" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" />
       <jump line="903" column="0" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" />
+      <jump line="1419" column="35" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
