@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/autoconfigure/LantuOldMessageHandlerConfiguration.java" timestamp="1561702212574">
@@ -13,7 +13,6 @@
       <file name="/a.dummy" timestamp="1562295010690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-database-consumer/src/main/java/com/comisys/lanxin/blueprint/database/comsumer/mysql/dao/service/ConsumerLoginInfoDao.java" timestamp="1562295009389" />
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/handler/data/QueryResourceInfoMessageHandler.java" timestamp="1561965148538">
         <mark key="'" line="28" column="13" />
       </file>
@@ -53,8 +52,8 @@
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-host-lanxin/src/main/java/com/comisys/lanxin/blueprint/service/host/lanxin/NextBetterOpenService.java" timestamp="1561965123748">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" timestamp="1562295490544">
-        <mark key="'" line="1419" column="35" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" timestamp="1562406649992">
+        <mark key="'" line="1098" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/inventory/LibraryBillManagerV2.java" timestamp="1562230284451">
         <mark key="'" line="95" column="13" />
@@ -132,6 +131,8 @@
       <jump line="38" column="7" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" />
       <jump line="903" column="0" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/commodity/CommodityManagerV2.java" />
       <jump line="1419" column="35" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" />
+      <jump line="1719" column="46" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" />
+      <jump line="1098" column="8" filename="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
