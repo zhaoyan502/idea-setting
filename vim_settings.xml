@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-messagehandler/src/main/java/cn/nextbetter/lantu/messagehandler/old/autoconfigure/LantuOldMessageHandlerConfiguration.java" timestamp="1561702212574">
@@ -52,8 +52,12 @@
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-host-lanxin/src/main/java/com/comisys/lanxin/blueprint/service/host/lanxin/NextBetterOpenService.java" timestamp="1561965123748">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" timestamp="1562406649992">
-        <mark key="'" line="1098" column="8" />
+      <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/ConsumerUserInfoManager.java" timestamp="1562574279722">
+        <mark key="'" line="1099" column="8" />
+        <mark key="[" line="1008" column="8" />
+        <mark key="]" line="1009" column="7" />
+        <mark key="^" line="1009" column="7" />
+        <mark key="." line="1009" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/BLUEPRINT/blueprint-server/blueprint-service-consumer/src/main/java/com/comisys/lanxin/blueprint/service/consumer/inventory/LibraryBillManagerV2.java" timestamp="1562230284451">
         <mark key="'" line="95" column="13" />
