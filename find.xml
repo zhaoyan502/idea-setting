@@ -10,6 +10,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*Controller.java</mask>
+    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
