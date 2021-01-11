@@ -79,6 +79,7 @@
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1095,6 +1096,7 @@
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
