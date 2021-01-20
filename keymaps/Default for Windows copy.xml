@@ -5,4 +5,5 @@
   </action>
   <action id="CodeCompletion" />
   <action id="EditorUnSelectWord" />
+  <action id="ExternalJavaDoc" />
 </keymap>
