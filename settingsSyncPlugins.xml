@@ -14,6 +14,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="cn.haojiyou.CodeGlance3">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.plugins.gnomekeymap">
           <value>
             <PluginData>
