@@ -1,9 +1,24 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="Code author" value="Default" />
+        <entry key="Inheritors" value="Default" />
+        <entry key="Related problems" value="Default" />
+        <entry key="Usages" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
     <settingsMapElement>
       <JAVA.JavaLens>
         <JavaLensSettings>
